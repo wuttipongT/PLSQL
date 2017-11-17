@@ -3,6 +3,7 @@ PL/SQL คืออะไร ชื่อเต็มคือ PROCEDURE LANGUAG
 มารวมกันเป็นโปรแกรมทำให้คำสั่งเหล่านั้นมีประสิทธิภาพ และทำงานได้ตรงตามความต้องการของผู้ใช้มากขึ้น และกว้างขวางมากขึ้น
 
 Oracle is a relational database technology developed by Oracle.
+
 PLSQL stands for "Procedural Language extensions to SQL", and is an extension of SQL that is used in Oracle. 
 PLSQL is closely integrated into the SQL language, yet it adds programming constructs that are not native to SQL.
 
