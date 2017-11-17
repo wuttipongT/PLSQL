@@ -4,7 +4,7 @@ the WITH clause is a subquery factoring clause which is used to create a named s
 The scope of the WITH clause subquery block is the SELECT query with which is is associated.
 */
 
-//Ex.
+--Ex.
 
 WITH t AS (
   SELECT * FROM EDI_ERR ORDER BY SEQ
