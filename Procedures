@@ -1,4 +1,10 @@
-CREATE OR REPLACE PROCEDURE SFCORCL.SP_SFCMU3016(ORDNO IN VARCHAR2, LINECD IN VARCHAR2, REASON IN VARCHAR2, IP IN VARCHAR2)
+/*
+Oracle / PLSQL: Procedures
+PL/SQL. A subprogram is a program unit/module that performs a particular task.
+*/
+
+/*Example */
+CREATE OR REPLACE PROCEDURE SP_SFCMU3016(ORDNO IN VARCHAR2, LINECD IN VARCHAR2, REASON IN VARCHAR2, IP IN VARCHAR2)
 /*========================================================================
 Program name  : SFCMU301p
 Description   :	Return All Parts Before Process
